@@ -9,7 +9,6 @@ import org.testng.annotations.*;
 public class BaseTest {
 	
 	public static WebDriver driver;
-	Configuration config = new Configuration();
 	
 	@BeforeTest
 	public void setup()

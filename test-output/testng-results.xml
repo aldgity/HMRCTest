@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="19573" started-at="2016-10-06T23:53:47Z" finished-at="2016-10-06T23:54:07Z">
+  <suite name="Default suite" duration-ms="18399" started-at="2016-10-07T08:44:07Z" finished-at="2016-10-07T08:44:25Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="19573" started-at="2016-10-06T23:53:47Z" finished-at="2016-10-06T23:54:07Z">
+    <test name="Default test" duration-ms="18399" started-at="2016-10-07T08:44:07Z" finished-at="2016-10-07T08:44:25Z">
       <class name="hmrc.qa.tests.TestGoogleAppSpot">
-        <test-method status="PASS" signature="setup()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="setup" is-config="true" duration-ms="13898" started-at="2016-10-07T00:53:47Z" finished-at="2016-10-07T00:54:01Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="setup" is-config="true" duration-ms="13910" started-at="2016-10-07T09:44:07Z" finished-at="2016-10-07T09:44:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="TestUserSignUpWithExistingUser()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="TestUserSignUpWithExistingUser" duration-ms="2064" started-at="2016-10-07T00:54:01Z" finished-at="2016-10-07T00:54:03Z">
+        <test-method status="PASS" signature="TestUserSignUp()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="TestUserSignUp" duration-ms="1611" started-at="2016-10-07T09:44:21Z" finished-at="2016-10-07T09:44:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- TestUserSignUpWithExistingUser -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="teardown" is-config="true" duration-ms="3530" started-at="2016-10-07T00:54:03Z" finished-at="2016-10-07T00:54:07Z">
+        </test-method> <!-- TestUserSignUp -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:hmrc.qa.tests.TestGoogleAppSpot@be2bc2]" name="teardown" is-config="true" duration-ms="2834" started-at="2016-10-07T09:44:22Z" finished-at="2016-10-07T09:44:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

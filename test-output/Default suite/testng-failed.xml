@@ -5,7 +5,7 @@
     <classes>
       <class name="hmrc.qa.tests.TestGoogleAppSpot">
         <methods>
-          <include name="TestUserSignUpWithExistingUser"/>
+          <include name="TestUserSignUp"/>
         </methods>
       </class> <!-- hmrc.qa.tests.TestGoogleAppSpot -->
     </classes>
